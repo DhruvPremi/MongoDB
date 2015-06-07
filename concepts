@@ -1,0 +1,4 @@
+Mongo DB does not support Joins and multi node transaction fundas.
+Because then it will be too toublesome.
+
+
